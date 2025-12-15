@@ -2,7 +2,7 @@ Cloudflare Workers 双协议智能跳转工具
 
 一款轻量级、高性能的边缘跳转工具，基于访问者 IP 协议类型（IPv4/IPv6）智能分流域名请求。适合家庭仅有IPV6公网没有IPV4公网进行分流，没有公网IPV6的访问者自动跳转到设置的内网穿透地址，有则自动使用公网访问IPV6地址。
 部署于 Cloudflare Workers 边缘节点，实现无服务器、低延迟的域名流量分发，零运维成本即可上线使用。
- ![Uploading exported_image (1).png…]()
+
 
 ✨ 核心特性
 
